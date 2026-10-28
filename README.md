@@ -1,4 +1,9 @@
- Mi nombre es Stiven Andrade     Desarrollador y Diseñador Web     Aprendiz de Análisis y Desarrollo de Software en el SENA, apasionado por la programación, el desarrollo web y la creación de soluciones tecnológicas. Me gusta aprender nuevas herramientas, resolver problemas y convertir ideas en proyectos funcionales. Actualmente estoy fortaleciendo mis habilidades en desarrollo frontend, bases de datos y lógica de programación. 
+ Mi nombre es Stiven Andrade
+ 
+ Desarrollador y Diseñador Web 
+ 
+Aprendiz de Análisis y Desarrollo de Software en el SENA, apasionado por la programación, el desarrollo web y la creación de soluciones tecnológicas. Me gusta aprender nuevas herramientas, resolver problemas y convertir ideas en proyectos funcionales. Actualmente estoy fortaleciendo mis habilidades en desarrollo frontend, bases de datos y lógica de programación.
+ 
 * 🌍 Estoy basado en Garzón-Huila, Colombia 
 * 🖥️ Ver mi portafolio en [Portafolio](http://hsandrade11.github.io/Portafolio/) 
 * ✉️ Puedes contactarme en [hsandrade11@gmail.com](mailto:hsandrade11@gmail.com)  
